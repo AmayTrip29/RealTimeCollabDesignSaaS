@@ -39,7 +39,7 @@ git clone https://github.com/AmayTrip29/RealTimeCollabDesignSaaS.git
 ---
 
 ```bash
-cd figma-clone
+cd RealTimeCollabDesignSaaS
 ```
 
 ---
